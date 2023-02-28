@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "aircore-chat-panel-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/aircoreio/aircore-chat-panel-ios",
+      "state" : {
+        "branch" : "main",
+        "revision" : "304d1801fcd688d96af9039d3e277a5175ec2dc9"
+      }
+    },
+    {
+      "identity" : "aircore-logging-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/aircoreio/aircore-logging-ios",
+      "state" : {
+        "revision" : "9afb1978d99e6be7ddbdc61c8b3b5702b06dc369",
+        "version" : "1.0.7"
+      }
+    }
+  ],
+  "version" : 2
+}
