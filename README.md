@@ -1,6 +1,7 @@
 ### ChatPanel SDK iOS Samples
 The samples in this repository demonstrate how to use the Aircore ChatPanel SDK.  For more information, check out the [getting started guide](https://docs.aircore.io/getting-started/chat-ios-quickstart) or the [API reference](https://docs.aircore.io/ios/chatpanel/api-reference/aircorechatpanel).
 
+#### [SwiftUI Sample](https://github.com/aircoreio/aircore-chat-panel-ios-samples/tree/main/ChatPanel-SwiftUI)
 #### [Swift Sample](https://github.com/aircoreio/aircore-chat-panel-ios-samples/tree/main/ChatPanel-UIKit-Swift)
 #### [Objective-C Sample](https://github.com/aircoreio/aircore-chat-panel-ios-samples/tree/main/ChatPanel-UIKit-ObjC)
 
